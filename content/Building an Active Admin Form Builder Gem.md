@@ -1,4 +1,3 @@
-# 🚀 Building an Active Admin Form Builder Gem
 
 Recently, I had an exciting client use case: creating a customizable, modular form builder gem integrated with Active Admin. Here's the journey, some important insights, and lessons learned!
 
