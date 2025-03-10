@@ -84,6 +84,6 @@ No more Git tantrums! 🎉
 
 ## **Conclusion: Git Smarter, Not Harder**
 
-A tiny config tweak can save you hours of frustration. Try it out and enjoy a Git experience that doesn’t make you want to rage-quit. 🚀
+A tiny config tweak can save you hours of frustration. Try it out and enjoy a Git experience that doesn’t make you want to rage-quit. 
 
 What’s your biggest Git horror story? Drop it in the comments! 👇
