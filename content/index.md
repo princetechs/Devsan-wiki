@@ -1,10 +1,9 @@
 ---
 title: Welcome to My Digital Garden
-cssclasses:
-  - sasa
+cssclasses: 
 tags:
   - typescript
-  - RGB
+  - devsan
 ---
 
 This is my personal digital garden where I document my learning journey, share knowledge, and maintain a collection of interconnected notes and insights.
