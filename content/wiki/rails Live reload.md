@@ -1,0 +1,1 @@
+when work on rails frontend a gem call rails live reload is very hepl fully
