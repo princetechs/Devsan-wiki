@@ -14,15 +14,15 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          Creaded by <a href="https://Techlye.com">Techlye</a> © {year}
+          <a href="https://github.com/princetechs">
+            <i class="fab fa-github"></i>
+          </a>
         </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a href="https://github.com/princetechs">Github</a>
             </li>
-          ))}
         </ul>
       </footer>
     )
