@@ -1,7 +1,5 @@
 
 
-  
-
 Managing and serving static assets like CSS, JavaScript, and images is an essential part of any Rails application. But how exactly does the Asset Pipeline work? And what role do Propshaft and Sprockets play in it? Let’s dive in with a series of questions and answers to make this process clearer.
 
   
