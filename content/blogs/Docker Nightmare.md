@@ -26,7 +26,7 @@ Frustrated, I decided to build the deployment from scratch rather than relying o
 
 ### **Why Did the Health Check Fail on AWS AppRunner?**
 Have you ever been stuck on a deployment issue and felt like you were going in circles? That’s what I felt as I tried repeatedly to deploy my Ruby on Rails app on **AWS AppRunner**, only to have the **health check** fail each time.
-  ![Frustrated image](content/blogs/images/frutationand_stuck.png)
+  ![Frustrated image](https://github.com/princetechs/Devsan-wiki/blob/main/content/blogs/images/frutationand_stuck.png?raw=true)
 
 I was determined to figure out what went wrong. So, I spent 2 days troubleshooting the **Docker build** and **AWS AppRunner** configurations. I tried deploying directly from the **Git repository** using **Ruby 3.1 build time**, so I could access the build logs, but encountered a PostgreSQL version incompatibility.
 
