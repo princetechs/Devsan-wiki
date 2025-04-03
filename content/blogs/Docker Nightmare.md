@@ -106,7 +106,7 @@ Yes, just a **6-line fix**! Once I added the `--platform=linux/amd64` option to 
 
 After hours of troubleshooting and **health check failures**, I finally deployed my Ruby on Rails app on **AWS AppRunner**. The feeling of overcoming this challenge was incredible. I shared my success with the team and celebrated the victory. Sometimes, the solution to a complex problem is simpler than you think.
 
-  
+  ![eureka](https://github.com/princetechs/Devsan-wiki/blob/main/content/blogs/images/eureka.png?raw=true)
 
 Have you ever had a **health check failure** or encountered platform-specific deployment issues like I did with **AWS AppRunner**? What was your breakthrough moment? Share your experiences in the comments—I’d love to hear your deployment stories!
 
