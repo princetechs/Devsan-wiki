@@ -2,8 +2,6 @@
 title: Welcome to My Digital Garden
 ---
 
-# Welcome to My Digital Garden
-
 This is my personal digital garden where I document my learning journey, share knowledge, and maintain a collection of interconnected notes and insights.
 
 ## What You'll Find Here
