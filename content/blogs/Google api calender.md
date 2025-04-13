@@ -96,7 +96,7 @@ event = Google::Apis::CalendarV3::Event.new(
   description: 'Testing event creation via Rails console',
   start: { date_time: '2025-04-12T10:00:00+05:30' },
   end: { date_time: '2025-04-12T11:00:00+05:30' },
-  attendees: [{ email: 'youremail@yourdomain.com' }],
+  attendees: [{ email: 'sandipparida282@gmail.com' }],
   reminders: { use_default: true }
 )
 
