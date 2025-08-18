@@ -44,7 +44,7 @@
 - All dependencies go into the **global environment or project `requirements.txt`**.
     
 
-> 💡 But you can document per-app dependencies in `llm/requirements.txt` for reuse.
+>  But you can document per-app dependencies in `llm/requirements.txt` for reuse.
 
 ---
 
@@ -70,7 +70,7 @@ pip install cookiecutter
 cookiecutter https://github.com/pydanny/cookiecutter-django-app
 ```
 
-> 🎯 This generates a ready-to-publish, reusable app with packaging tools, tests, and structure.
+>  This generates a ready-to-publish, reusable app with packaging tools, tests, and structure.
 
 ---
 
