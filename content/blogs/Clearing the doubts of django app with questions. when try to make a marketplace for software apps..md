@@ -11,7 +11,7 @@
 - Think of it as a **feature or component**, not just a controller.
     
 
-> ❗ It’s not a controller — it includes models, views (controller-like), templates, and more.
+>  It’s not a controller — it includes models, views (controller-like), templates, and more.
 
 ---
 

@@ -114,3 +114,8 @@ text
     
 
 This approach provides a **clean, scalable foundation** for your API that balances simplicity with flexibility while maintaining RESTful principles.![[Screenshot 2025-08-18 at 3.04.21 PM.png]]
+
+
+Then remove all the unused apis
+
+refine a profile fetch api which will gather all the details needs to see in the first screen without huddles in latency![[Screenshot 2025-08-18 at 3.21.13 PM.png]]![[Screenshot 2025-08-18 at 3.24.54 PM.png]]
